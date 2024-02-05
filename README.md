@@ -4,9 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Chelsea Li
-Edison Chen
-Jacklyn Hu
+Chelsea Li,
+Edison Chen,
+Jacklyn Hu,
 Natalie Wu
 
 ## Stakeholders
