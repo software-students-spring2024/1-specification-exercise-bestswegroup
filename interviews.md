@@ -48,11 +48,51 @@
      For larger payments though I think its def important to track them and pay them as quickly as possible (whenever convenient) just to get it off both parties' shoulders.
 ### Goals
 - Convenient methods to split the bill
+- Not worrying about following up
+- Getting paid back in an timely manner
+- Getting paid back the full amount
 ### Frustrations
 - Minimal pains
+- Having to remind friends
+- Forgetting to follow up on pyaments
+- Not getting paid for small payments because it's not worth splitting
 
-# Traveler Interview
+# Jason Lin Interview
 ## General Experience
+- Can you describe a recent situation where you needed to split a bill or expense with others? What was the context?
+When I studied abroad last semester in Florence, I went on a weekend trip to Barcelona with a couple of friends that I met abroad. We had to split the expenses evenly between booking flights, hotels, eating out, trains, excursions, etc. 
+- How often do you find yourself needing to split expenses with others, and in what contexts (e.g., dining out, shared housing expenses, group travel)?
+I find myself splitting expenses with others quite often, at least once a week on the minimum. In the context of eating at restaurants together, housing expenses with my roommates, traveling with friends, and miscellaneous activities with my friends where one person pays and the others pay them back (such as going to the movies, ice skating, etc).
+- Have you used any bill splitting apps or services before? Good experience? Bad experience?
+No, I have never used any bill splitting apps before. Usually, whoever pays will do all the calculations.
+- Describe any difficulties you’ve faced when splitting bills or expenses manually or using technology.
+When there is a big bill where there’s a lot of different people involved and each person’s expense is different, it can take a long time to figure out who owes what. Sometimes, we will split the bill equally even if one person orders way more than another just to save the hassle of calculating everything.
+- How did these frustrations make you feel?
+I think that it can be annoying being the person who pays the whole bill depending on the relationship with the others. Because sometimes people you don’t know well don’t have the same money tendencies that you might have, so they may be cheap and not want to pay an extra couple dollars of their fair share, which can add up if there are a lot of people like that in a group. It really depends on the group of people you’re with though, as with my main group of friends we have no worries when money is involved. 
+- Have you ever been in a situation where someone did not pay their share on time? How did you handle it?
+Yes I have. A lot of times people won’t pay you back immediately after you pay the bill, and you have to remind them gently a day or two later. It can be annoying to be put in that position though, because you don’t want to feel like you’re nagging them but at the same time you just want your money back. I think it’s more awkward when you’re asking for money back with people that you aren’t as close with.
+- In what ways have you felt that splitting expenses affected your relationships with friends, family, or colleagues?
+I think it depends on the people that you are dealing with. With the people that are close to me, money/expenses are usually not an issue but I think with people you are just meeting and don’t know too well, you can get a bad taste in your mouth if they are being cheap. I’m usually more hesitant to put my card down if I don’t know the people in the group too well. 
+
 ## Potential Improvements
-### Goals
-### Frustrations
+- What features do you look for in a payment splitting app? What would an ideal experience be?
+I would want there to be features to split the price evenly, or you can customize it with exact amounts or maybe percentages. A feature that calculates the fair share of tax + tip per person would be useful, because usually we just split the tax + tip evenly regardless if people spend different amounts, because the process of calculating that per person is too inconvenient. The ideal experience is that I would do the least amount of work to figure out how much each person owes. 
+- Would you prefer an app that integrates directly with payment services (like PayPal, Venmo) or one that simply organizes who owes what?
+I think that would be really cool if payment services were integrated and I think that it would simplify the process even more. It would be cool if zelle or venmo were incorporated somehow because that’s how I typically pay others back/recieve money.
+- How do you currently remind others to pay their share, and how effective do you find this method?
+I usually will text them directly to remind them. I would say it is pretty effective usually but sometimes will have to text them more than once which is annoying. 
+- How do you feel about reminding others to pay their share? Would an automated reminder feature be useful to you?
+I think that it’s annoying to remind others, and that I would much rather have them pay me back immediately. I don’t think I should be the one to remember that they owe me money and have to track them down to get it back. An automated reminder would be useful, especially if it actually works and they do it.
+- How important is it for you to track your expenses and payments over time?
+It is very important to me to be aware of my expenses and payment, especially as I’m getting older, I need to be financially responsible and conscious of where my money goes.
+### 4 goals
+- Send automatic notifications to ensure timely repayments, reducing the burden on the payer.
+- Automate the division of bills, taxes, and tips based on what each person ordered, making the process quick and accurate.
+- Directly integrate payment methods (i.e. Venmo/Zelle) to facilitate transfers without manually sharing payment information each time.
+- Simplify Decision-Making: Provide a fun and impartial way to make quick decisions on who should pay, enhancing the dining experience.
+### 4 frustrations
+- Payers often forget to pay, leading to uncomfortable reminders and potential conflicts.
+- Calculating how much each person owes, including their share of taxes and tips, can be complicated and error-prone.
+- Transferring money can be cumbersome if payers use different payment methods or payment details aren't readily available.
+- Deciding who should pay the bill can be awkward.
+
