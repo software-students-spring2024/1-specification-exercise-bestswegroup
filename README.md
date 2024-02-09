@@ -13,6 +13,19 @@ Natalie Wu
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
+### 4 frustrations
+- People often forget to reimburse the payer, leading to uncomfortable reminders and potential conflicts.
+- Figuring out how much each person owes, including their share of taxes and tips, can be complicated and error-prone.
+- Transferring money can be burdensome if people use different apps or if the payer's payment details aren't readily available.
+- Group members often can’t decide who should pay the bill.
+  
+- ### 4 goals
+- Send automatic notifications to ensure timely repayments, reducing the burden on the payer.
+- Automate the division of bills, taxes, and tips based on what each person ordered, making the process quick and accurate.
+- Directly integrate Venmo (or other payment apps) links to facilitate easy transfers without needing to share personal information each time.
+- Simplify Decision-Making: Provide a fun and impartial way to make quick decisions on who should pay, enhancing the dining experience.
+
+
 ## Product Vision Statement
 
 To simplify shared financial experiences by turning the often stressful task of bill splitting into a seamless, positive experience.
