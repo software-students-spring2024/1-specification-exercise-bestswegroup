@@ -11,19 +11,33 @@ Natalie Wu
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Interview summaries (full interviews are available in the interviews.md file)
+### Yunseo Kim
+Yunseo doesn't fit our target demographic as splitting the bill isn't a "hair on fire" problem for him. He would not be a frequent user and would not gain much value from our proposed solution.
+Goals
+- Convenient methods to split the bill
+- Minimal burden from solutions - not needing to bother others
+- Getting paid back in an timely manner
+- Getting paid back the full amount
+Frustrations (minimal frustrations)
+- Minimal pains
+- Having to awkwardly remind friends
+- Forgetting to follow up on pyaments
+- Not getting reimbursed for small payments because it's not worth splitting
 
-### 4 frustrations
-- People often forget to reimburse the payer, leading to uncomfortable reminders and potential conflicts.
-- Figuring out how much each person owes, including their share of taxes and tips, can be complicated and error-prone.
-- Transferring money can be burdensome if people use different apps or if the payer's payment details aren't readily available.
-- Group members often can’t decide who should pay the bill.
-  
-- ### 4 goals
+### Jason Lin
+Jason fits our target demographic more as a frequent traveler.
+4 goals
 - Send automatic notifications to ensure timely repayments, reducing the burden on the payer.
 - Automate the division of bills, taxes, and tips based on what each person ordered, making the process quick and accurate.
-- Directly integrate Venmo (or other payment apps) links to facilitate easy transfers without needing to share personal information each time.
+- Directly integrate payment methods (i.e. Venmo/Zelle) to facilitate transfers without manually sharing payment information each time.
 - Simplify Decision-Making: Provide a fun and impartial way to make quick decisions on who should pay, enhancing the dining experience.
+
+4 frustrations
+- Payers often forget to pay, leading to uncomfortable reminders and potential conflicts.
+- Calculating how much each person owes, including their share of taxes and tips, can be complicated and error-prone.
+- Transferring money can be cumbersome if payers use different payment methods or payment details aren't readily available.
+- Deciding who should pay the bill can be awkward.
 
 
 ## Product Vision Statement
@@ -32,7 +46,7 @@ To simplify shared financial experiences by turning the often stressful task of 
 
 ## User Requirements
 
-1. As a group member, I want a fun and fair way to decide who pays the bill, So that we can quickly and happily determine who covers the expense next
+1. As a group member, I want a fun and fair way to decide who pays the bill, So that we can quickly and happily determine who covers the expense next.
 2. As the one who pays the bill, I want to ensure that everyone is reminded to settle their shares on time, so that dues are paid promptly without needing to personally remind anyone, avoiding discomfort.
 3. As a diner in a group, I want an easy method to accurately split the tax and tips based on what each person owes, So that everyone pays their fair share without complex calculations.
 4. As a user, I want to easily send and receive payments for shared expenses, So that settling up is quick and effortless, minimizing the need to navigate through multiple apps or platforms.
