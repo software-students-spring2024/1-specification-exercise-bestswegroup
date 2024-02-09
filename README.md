@@ -14,12 +14,14 @@ Natalie Wu
 Interview summaries (full interviews are available in the interviews.md file)
 ### Yunseo Kim
 Yunseo doesn't fit our target demographic as splitting the bill isn't a "hair on fire" problem for him. He would not be a frequent user and would not gain much value from our proposed solution.
+
 Goals
 - Convenient methods to split the bill
 - Minimal burden from solutions - not needing to bother others
 - Getting paid back in an timely manner
 - Getting paid back the full amount
-Frustrations (minimal frustrations)
+
+Frustrations (minimal)
 - Minimal pains
 - Having to awkwardly remind friends
 - Forgetting to follow up on pyaments
@@ -27,13 +29,14 @@ Frustrations (minimal frustrations)
 
 ### Jason Lin
 Jason fits our target demographic more as a frequent traveler.
-4 goals
+
+Goals
 - Send automatic notifications to ensure timely repayments, reducing the burden on the payer.
 - Automate the division of bills, taxes, and tips based on what each person ordered, making the process quick and accurate.
 - Directly integrate payment methods (i.e. Venmo/Zelle) to facilitate transfers without manually sharing payment information each time.
 - Simplify Decision-Making: Provide a fun and impartial way to make quick decisions on who should pay, enhancing the dining experience.
 
-4 frustrations
+Frustrations
 - Payers often forget to pay, leading to uncomfortable reminders and potential conflicts.
 - Calculating how much each person owes, including their share of taxes and tips, can be complicated and error-prone.
 - Transferring money can be cumbersome if payers use different payment methods or payment details aren't readily available.
