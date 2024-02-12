@@ -62,7 +62,6 @@ To simplify shared financial experiences by turning the often stressful task of 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 <img width="777" alt="image" src="https://github.com/software-students-spring2024/1-specification-exercise-bestswegroup/assets/127568345/6acdfe5e-6e35-46a1-8190-fac4d2ccc143">
 
@@ -71,5 +70,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FxzYQdtuoJj6Ae1k8xlQJwn%2FSWE---Payment-Splitting-Prototype%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DWBCoN8GlRhV17puo-1" allowfullscreen></iframe>
