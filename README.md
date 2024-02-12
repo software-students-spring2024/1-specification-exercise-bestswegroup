@@ -64,6 +64,12 @@ To simplify shared financial experiences by turning the often stressful task of 
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 
+<img width="777" alt="image" src="https://github.com/software-students-spring2024/1-specification-exercise-bestswegroup/assets/127568345/6acdfe5e-6e35-46a1-8190-fac4d2ccc143">
+
+<img width="449" alt="image" src="https://github.com/software-students-spring2024/1-specification-exercise-bestswegroup/assets/127568345/9c899033-781b-49d5-8bbd-6ca3a5e737eb">
+
+
+
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
