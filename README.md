@@ -70,4 +70,4 @@ To simplify shared financial experiences by turning the often stressful task of 
 
 
 ## Clickable Prototype
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FxzYQdtuoJj6Ae1k8xlQJwn%2FSWE---Payment-Splitting-Prototype%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DWBCoN8GlRhV17puo-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FxzYQdtuoJj6Ae1k8xlQJwn%2FSWE---Payment-Splitting-Prototype%3Ftype%3Ddesign%26node-id%3D46-3268%26t%3DBRvl0angQwcooX51-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D38%253A37%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
