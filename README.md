@@ -71,6 +71,6 @@ To simplify shared financial experiences by turning the often stressful task of 
 
 ## Clickable Prototype
 
-Wireframe Diagrams [https://www.figma.com/file/xzYQdtuoJj6Ae1k8xlQJwn/SWE---Payment-Splitting-Prototype?type=design&node-id=0%3A1&mode=design&t=WBCoN8GlRhV17puo-1]
+[Wireframe Diagrams](https://www.figma.com/file/xzYQdtuoJj6Ae1k8xlQJwn/SWE---Payment-Splitting-Prototype?type=design&node-id=0%3A1&mode=design&t=WBCoN8GlRhV17puo-1)
 
-Clickable Protoype [https://www.figma.com/proto/xzYQdtuoJj6Ae1k8xlQJwn/SWE---Payment-Splitting-Prototype?type=design&node-id=46-3268&t=BRvl0angQwcooX51-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=38%3A37&show-proto-sidebar=1&mode=design]
+[Clickable Protoype](https://www.figma.com/proto/xzYQdtuoJj6Ae1k8xlQJwn/SWE---Payment-Splitting-Prototype?type=design&node-id=46-3268&t=BRvl0angQwcooX51-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=38%3A37&show-proto-sidebar=1&mode=design)
